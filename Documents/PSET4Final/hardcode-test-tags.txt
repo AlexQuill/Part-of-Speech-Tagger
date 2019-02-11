@@ -1,0 +1,5 @@
+DET N V P N CC N P N.
+PRO N V P PRO N .
+PRO N V P V P PRO N .
+PRO V PRO N P N .
+PRO N V P V N .
